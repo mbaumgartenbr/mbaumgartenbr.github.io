@@ -1,5 +1,7 @@
-# My projects
+# My packages
 
-- Example for [flutter_tree_view](https://mbaumgartenbr.github.io/flutter_tree_view/)
+- [flutter_tree_view](https://github.com/mbaumgartenbr/flutter_tree_view)
+
+# My projects
 
 - [ElPCD](https://elpcd.github.io/#/)
